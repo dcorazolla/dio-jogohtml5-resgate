@@ -1,2 +1,13 @@
 # dio-jogohtml5-resgate
-Projeto: Construindo seu primeiro jogo de naves - Jogo em HTML5 / CSS / JS
+
+Entrega do projeto de curso da Digital Inovation One 
+ 
+Bootcamp: Javascript Game Developer
+ 
+Projeto: Construindo o seu primeiro jogo de naves
+ 
+Detalhes: 
+ - Adicionada possibilidade de para esquerda e direita 
+ - Inimigo1 persegue no eixo Y
+
+Data: 18/10/2020 

@@ -346,7 +346,7 @@ function start() {
     }
     
     function gameOver() {
-        fimdejogo=true;
+        fimdejogo = true;
         musica.pause();
         somGameover.play();
 
